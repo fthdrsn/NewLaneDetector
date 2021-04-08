@@ -1,0 +1,4 @@
+https://thomasfermi.github.io/Algorithms-for-Automated-Driving/Introduction/intro.html
+https://www.coursera.org/lecture/intro-self-driving-cars/lesson-2-geometric-lateral-control-pure-pursuit-44N7x
+https://arxiv.org/pdf/1902.00293.pdf
+https://thomasfermi.github.io/Algorithms-for-Automated-Driving/Introduction/intro.html
